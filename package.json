@@ -53,6 +53,7 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^7.2.3",
+    "babel-preset-es2015": "^6.24.1",
     "conventional-changelog-cli": "^1.3.3",
     "conventional-recommended-bump": "^1.0.1",
     "cross-env": "^5.0.5",
