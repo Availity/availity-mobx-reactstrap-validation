@@ -1,6 +1,5 @@
 {
   "name": "availity-mobx-reactstrap-validation",
-  "private": true,
   "version": "0.0.2",
   "author": "Tyson Warner <tyson.warner@availity.com>",
   "description": "Mobx wrapper lib around availity-reactstrap-validation",
