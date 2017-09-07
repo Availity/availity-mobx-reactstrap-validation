@@ -1,23 +1,21 @@
+import AvBaseInput from './AvBaseInput';
 import AvFeedback from './AvFeedback';
 import AvField from './AvField';
 import AvForm from './AvForm';
 import AvGroup from './AvGroup';
-import AvRadioGroup from './AvRadioGroup';
-import AvRadio from './AvRadio';
 import AvInput from './AvInput';
-import AvBaseInput from './AvBaseInput';
 import AvInputContainer from './AvInputContainer';
-import AvValidator from './AvValidator';
+import AvRadio from './AvRadio';
+import AvRadioGroup from './AvRadioGroup';
 
 export {
+  AvBaseInput,
   AvFeedback,
   AvField,
   AvForm,
   AvGroup,
-  AvRadioGroup,
-  AvRadio,
   AvInput,
-  AvBaseInput,
   AvInputContainer,
-  AvValidator,
+  AvRadio,
+  AvRadioGroup,
 };
