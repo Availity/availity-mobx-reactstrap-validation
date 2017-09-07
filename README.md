@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/Availity/availity-mobx-reactstrap-validation.svg?branch=master)](https://travis-ci.org/Availity/availity-mobx-reactstrap-validation)
-
 # availity-mobx-reactstrap-validation
 
 [Mobx](https://mobx.js.org) wrapper lib around [availity-reactstrap-validation](https://github.com/availity/availity-reactstrap-validation)
