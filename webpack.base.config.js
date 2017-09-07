@@ -38,6 +38,12 @@ module.exports = function(env) {
       libraryTarget: 'umd',
       umdNamedDefine: true,
     },
+
+    externals: {
+      'mobx-react': 'mobx-react',
+      'availity-reactstrap-validation': 'availity-reactstrap-validation',
+    },
+
     resolve: {
       alias: {
         'availity-mobx-reactstrap-validation': 'src/index',
@@ -47,6 +53,7 @@ module.exports = function(env) {
         path.resolve('./src'),
       ],
     },
+
     plugins: plugins,
   };
 
