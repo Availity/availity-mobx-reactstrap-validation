@@ -52,6 +52,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
+    "conventional-recommended-bump": "^1.0.1",
     "eslint": "^4.6.1",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
